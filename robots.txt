@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usoldfish.github.io/mbti16/sitemap.xml
