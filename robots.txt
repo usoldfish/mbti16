@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /mbti16/private/ucs-7d-68145bb1b9/
 
 Sitemap: https://usoldfish.github.io/mbti16/sitemap.xml
